@@ -258,7 +258,7 @@ a.text-very-light-gray-hover:hover {color:#ededed !important;}
 .bg-light-gray {background-color:#f7f7f7}
 .bg-very-light-gray {background-color:#fafafa}
 .bg-navy {background-color:#171a24}
-.bg-light-blue {background-color:#bde6f9}
+.bg-light-blue {background-color:#42b8ef}
 .bg-royal-blue {background-color:#22aced}
 .bg-deep-blue {background-color:#0878f2;}
 .bg-deep-pink {background-color:#ff214f;}
@@ -3151,7 +3151,7 @@ header.sticky nav.navbar.brand-center ul.nav > li > a {padding: 20px; margin: 0 
 
 /* info banner style 2 */
 .banner-style2 figure {position: relative; overflow: hidden}
-.banner-style2 figure:hover .banner-image img{opacity:0.4;}
+.banner-style2 figure:hover .banner-image img{opacity:0.3;}
 .banner-style2 figcaption {position: absolute; right: -50px; top: 40px; height: 100%; height: calc(100% - 80px); width: 50%; opacity: 0; visibility: hidden;}
 .banner-style2 figure:hover figcaption {right: 40px; opacity: 1; visibility: visible}
 
@@ -3567,7 +3567,7 @@ a img.aligncenter { display: block; margin-left: auto; margin-right: auto }
 ====================================== */
 
 /* scroll to top */
-.scroll-top-arrow, .scroll-top-arrow:focus { color: #171a24; background: #bde6f9; line-height: 28px; display: none; height: 30px; width: 30px; padding: 0; position: fixed; right: 45px; text-align: center; text-decoration: none; top: 91%; z-index: 10006; border-radius: 100%;}
+.scroll-top-arrow, .scroll-top-arrow:focus { color: #171a24; background: #42b8ef; line-height: 28px; display: none; height: 30px; width: 30px; padding: 0; position: fixed; right: 45px; text-align: center; text-decoration: none; top: 91%; z-index: 10006; border-radius: 100%;}
 .scroll-top-arrow:hover {background: #13161e; opacity: .8; color: #fff; border-color: #ff214f}
 .scroll-top-arrow i {line-height: 30px;  position: relative;}
 
